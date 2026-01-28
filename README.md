@@ -47,8 +47,6 @@ I'm always happy to chat about projects, tech, or just connect with other studen
 
 <div align="center">
   
-**Thanks for stopping by!** Feel free to check out my projects or reach out if you want to collaborate on something!
-
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+Thanks for stopping by! Feel free to check out my projects or reach out if you want to collaborate on something!
 
 </div>
