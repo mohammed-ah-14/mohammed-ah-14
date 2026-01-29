@@ -49,7 +49,7 @@ I'm always happy to chat about projects, tech, or just connect with other studen
   <a href="https://linkedin.com/in/mohammed-abdulharis">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.mohammed.abdulharis@outlook.com">
+  <a href="mailto:mohammed.abdulharis@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
