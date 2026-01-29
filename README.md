@@ -8,9 +8,8 @@ I'm Mohammed Abdul Haris , a junior Computer Science student who loves building 
 - **Goal**: Build projects that actually solve problems
 - **Based in**: Sharjah, United Arab Emirates
 
-### Tech Stack (So Far)
-
-### Languages I've Used
+### Tech Stack 
+#### Languages I've Used
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -19,7 +18,7 @@ I'm Mohammed Abdul Haris , a junior Computer Science student who loves building 
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Frameworks & Tools
+#### Frameworks & Tools
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -27,13 +26,13 @@ I'm Mohammed Abdul Haris , a junior Computer Science student who loves building 
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### Databases
+#### Databases
 <p>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Tools & Platforms
+#### Tools & Platforms
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
