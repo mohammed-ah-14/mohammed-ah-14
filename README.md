@@ -58,4 +58,9 @@ I'm always happy to chat about projects, tech, or just connect with other studen
   
 Thanks for stopping by! Feel free to check out my projects or reach out if you want to collaborate on something!
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mohammed-ah-14&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+
 </div>
