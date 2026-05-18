@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-I'm Mohammed Abdul Haris , a junior Computer Science student who loves building things and learning by doing. Currently exploring web/mobile development, machine learning and pretty much anything that catches my interest!
+I'm Mohammed Abdul Haris , a Senior Computer Science student who loves building things and learning by doing. Currently exploring web/mobile development, machine learning and pretty much anything that catches my interest!
 
 - **Currently studying** at University of Sharjah
 - **Learning**: Flutter, React Native, Python, Java
