@@ -6,7 +6,7 @@ I'm Mohammed Abdul Haris , a Senior Computer Science student who loves building 
 - **Learning**: Flutter, React Native, Python, Java
 - **Exploring**: Machine Learning and Computer Vision
 - **Goal**: Build projects that actually solve problems
-- **Based in**: Sharjah, United Arab Emirates
+- **Based in**: Dubai, United Arab Emirates
 
 ### Tech Stack 
 #### Languages I've Used
